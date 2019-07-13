@@ -27,7 +27,7 @@ public class GFG {
 		} 
 	} 
 
-	// Driver code 
+	
 	public static void main(String[] args) 
 	{ 
 		String s = "abb"; 
